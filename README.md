@@ -1,0 +1,1 @@
+Simple Speed Typing App designed to check typing speed and also includes learning features to teach which finger should press each key. Currently in the building phase, the app is only available in Polish, but English language support will be added in the future.
